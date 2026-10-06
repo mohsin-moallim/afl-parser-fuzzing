@@ -1,0 +1,7 @@
+# AFL output (large, regenerated every run)
+out/
+
+# compiled binaries
+parser
+parser_fixed
+*.o
